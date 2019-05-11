@@ -64,7 +64,7 @@ docker run \
     beginor/gitlab-ce:11.0.1-ce.0 
 ```
 
-8.  浏览器打开 [http:ip:8090](https://note.youdao.com/)
+8.  浏览器打开 [http:ip:8091](https://note.youdao.com/)
 
 > *默认账号和密码：root* 
 
